@@ -1,0 +1,15 @@
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/bin/Debug/net6.0/task36
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/bin/Debug/net6.0/task36.deps.json
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/bin/Debug/net6.0/task36.runtimeconfig.json
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/bin/Debug/net6.0/task36.dll
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/bin/Debug/net6.0/task36.pdb
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.csproj.AssemblyReference.cache
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.AssemblyInfoInputs.cache
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.AssemblyInfo.cs
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.csproj.CoreCompileInputs.cache
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.dll
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/refint/task36.dll
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.pdb
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/task36.genruntimeconfig.cache
+/Users/xxx/Desktop/GB/homework_c#/hw5/task36/obj/Debug/net6.0/ref/task36.dll
